@@ -1,2 +1,3 @@
-const JWT_SECRET="Arpitsecret";
-module.exports = {JWT_SECRET};
+module.exports = {
+  JWT_SECRET: "Arpitsecret",
+};
